@@ -1,2 +1,2 @@
 # git215_setup
-git215 setup m1
+## Author: Mona Nakamura
